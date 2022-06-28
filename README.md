@@ -1,2 +1,2 @@
-# kotlin-programmin
+# kotlin-programming
 Kotlin TW Studies

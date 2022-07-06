@@ -5,6 +5,7 @@ build/
 !**/src/main/**
 !**/src/test/**
 *.class
+*.gradle
 
 ### STS ###
 .apt_generated

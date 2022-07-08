@@ -17,7 +17,7 @@ class SimplePerson {
 }
 
 fun main() {
-    val simplePerson = SimplePerson() // Instantiating a Person
+    val simplePerson = SimplePerson()
     println(simplePerson.name)
     println(simplePerson.age)
 

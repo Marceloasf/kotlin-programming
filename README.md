@@ -1,5 +1,5 @@
 # kotlin-programming
-Kotlin Programming TW Studies
+Kotlin Programming TW Studies. Overview of the following topics in kt code: 
 
 - [Colletions](https://github.com/Marceloasf/kotlin-programming/tree/master/src/main/kotlin/collections)
 - [Conditionals](https://github.com/Marceloasf/kotlin-programming/tree/master/src/main/kotlin/conditionals)
